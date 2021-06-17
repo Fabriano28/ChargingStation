@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find a Charging Station</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmFicmlhbm8yOCIsImEiOiJja3B5eG05c2wwM2tnMnhxYjVpczhucDF3In0.j84gVqZKhzVUYD04rxw9MA</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiZmFicmlhbm8yOCIsImEiOiJja3B5eG05c2wwM2tnMnhxYjVpczhucDF3In0.j84gVqZKhzVUYD04rxw9MA</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
