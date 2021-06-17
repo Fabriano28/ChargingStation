@@ -35,7 +35,7 @@ public final class Work extends AppCompatActivity {
         emer2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Work.this, Emergency.class));
+                startActivity(new Intent(Work.this, Emer.class));
             }
         });
 

@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         work3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Workshop.class));
+                startActivity(new Intent(MainActivity.this, Work.class));
             }
         });
 
@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         emer3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Emergency.class));
+                startActivity(new Intent(MainActivity.this, Emer.class));
             }
         });
 
